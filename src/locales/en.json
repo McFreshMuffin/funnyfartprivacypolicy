@@ -1,0 +1,32 @@
+{
+    "title": "Privacy Policy",
+    "description": {
+        "title": "What is Funny Fart?",
+        "text1": "Funny Fart is an native android app. Its functionality is to rate your own farts. The app uses a fromula of <a target='_blank' rel='noopener noreferrer' class='text-blue-500 underline' href='https://www.beano.com/posts/the-worlds-funniest-fart'>Beano Studies</a>.",
+        "text2": "The functionalities are to calculate scores for farts, savee calculated score to a local database, record audio of a fart and save it to the database with fart score, share farts audio."
+    },
+    "personalInfos": {
+        "title": "Personal Information",
+        "text": "We made our app \"Funny Fart\" with your privacy in mind. This means we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location."
+    },
+    "permissions": {
+        "title": "Explanation for permission requests",
+        "text": "In our application we do request some sensitive permissions to make functions work properly:",
+        "audio": {
+            "code": "android.permission.RECORD_AUDIO:",
+            "text": "We use the microphone to record the sounds of your farts. You can attach these sounds to a saved fart."
+        },
+        "write": {
+            "code": "android.permission.WRITE_EXTERNAL_STORAGE:",
+            "text": "We use this permission to save the audios and scores of your farts to a database in the internal phone storage. We do not process these data. If you remove the app from your phone the data will also be deleted."
+        },
+        "read": {
+            "code": "andriond.permission.READ_EXTERNAL_STROAGE:",
+            "text": "We use this permission to read the saved farts (score & audio) from your local phone storage."
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "text": "Ansgar Lichter & Markus Scheuring: <br> <a  target='_blank' rel='noopener noreferrer' class='text-blue-500 underline' href=\"mailto:funnyfart@markusscheuring.de\">funnyfart@markusscheuring.de</a>"
+    }
+}
