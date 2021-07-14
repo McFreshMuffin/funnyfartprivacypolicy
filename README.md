@@ -41,6 +41,5 @@ npx tailwindcss-cli@latest build ./src/assets/css/tailwindBase.css -o ./src/asse
 ```
 
 ## Live
-```
 [https://funnyfart.markusscheuring.de](https://funnyfart.markusscheuring.de)
-```
+
