@@ -39,3 +39,8 @@ npm i -D tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-comp
 ```
 npx tailwindcss-cli@latest build ./src/assets/css/tailwindBase.css -o ./src/assets/css/tailwind.css
 ```
+
+## Live
+```
+[https://funnyfart.markusscheuring.de](https://funnyfart.markusscheuring.de)
+```
